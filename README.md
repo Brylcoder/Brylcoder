@@ -33,4 +33,4 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
 Browse through my Github repositories for more.
 
  
- Reach me at [shubhamkushwaha621@gmail.comshubhamkushwaha621@gmail.com)
+ Reach me at [shubhamkushwaha621@gmail.com](shubhamkushwaha621@gmail.com)
