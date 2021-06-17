@@ -11,8 +11,8 @@ Technologies that I have experience on :
 
 - Angular
 - React
-- Web Designing
-- Web Development
+- Node
+- Express
 - SQL
 - Socket
 - MongoDB
