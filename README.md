@@ -1,8 +1,6 @@
 ### Hi! 🤗 I am *Shubham Kushwah*.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dpshubham.dpshubham&title=profile%20views)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fee9ff3e-4018-4d33-bbc3-bff8da173361/deploy-status)](https://app.netlify.com/sites/dpshubham/deploys)
-
 ---
 
 I'm a Front End Developer practitioner and computer programmer with an avid interest in UI/UX and Designing. As a core programmer, I love taking challenges and love being part of the solution.
@@ -11,12 +9,12 @@ I have hands on experience in Python, HTML, CSS, JavaScript, React and Deploymen
 
 Technologies that I have experience on :
 
-- Python
+- Angular
 - React
 - Web Designing
 - Web Development
 - SQL
-- Django
+- Socket
 - MongoDB
 
 
@@ -36,4 +34,4 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
 Browse through my Github repositories for more.
 
  
- Reach me at [shubhamkushwaha621@gmail.com](shubhamkushwaha621@gmail.com)
+ Reach me at [shubhamkushwaha621@gmail.com](shubhamk.career@gmail.com)
