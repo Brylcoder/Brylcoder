@@ -24,7 +24,7 @@ When in times of leisure, I like to read books in the genre of mystery thriller,
 
 <h2 style="text-align:center">Social Profiles</h2>
 
-[LinkedIn](https://www.linkedin.com/in/shubham-kushwah-963174198/) | [Visual Profile](https://sourcerer.io/dpshubham) | [Click to Chat](https://wa.link/92vx1x) | [Facebook](https://www.facebook.com/Shu9568) | [Instagram](https://www.instagram.com/dpshubham)
+[LinkedIn](https://www.linkedin.com/in/brylcoder/) | [Visual Profile](https://sourcerer.io/dpshubham) | [Click to Chat](https://wa.link/92vx1x) | [Facebook](https://www.facebook.com/Shu9568) | [Instagram](https://www.instagram.com/dpshubham)
 
  
  ---
